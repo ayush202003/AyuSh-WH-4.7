@@ -1,8 +1,8 @@
 {
   "libs": [
     {
-      "name": "libandoird64G",
-      "url": "https://raw.githubusercontent.com/ayush202003/AyuSh-WH-4.7/refs/heads/main/libandoird64G.so"
+      "name": "libitsayu.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyuSh-WH-4.7/refs/heads/main/libitsayu.so"
     }
   ],
   "expiry_date": "2026-12-22",
