@@ -1,0 +1,15 @@
+{
+  "libs": [
+    {
+      "name": "libLiteG.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/AyuSh-WH-4.7/refs/heads/main/libLiteG.so"
+    }
+  ],
+  "expiry_date": "2026-12-22",
+  "title": "Application Expired",
+  "message": "Application has been Expired,\nThis version has On Update. Please Wait And join our Telegram channel for the latest update.",
+  "telegram": "https://t.me/yourChannel",
+"floating_text": "🔥TeleGram>@GX_KINGXX Mod (BGMI AIR 4.7)💗",
+  "wh_enabled": true,
+  "wh_expiry": "20261222"
+}
